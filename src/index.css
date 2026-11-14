@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+    /* Colores principales */
+    --color-manga-ink: #06241A;
+    --color-manga-dark: #0A4430;
+    --color-manga-forest: #0F6B4A;
+
+    /* Colores de acento */
+    --color-manga-green: #159C6B;
+    --color-manga-fresh: #43C495;
+
+    /* Colores secundarios */
+    --color-manga-mint: #8FE0C0;
+    --color-manga-pale: #DEF6EB;
+}
