@@ -65,7 +65,7 @@ function Inicio() {
                         <img
                             src={`${import.meta.env.BASE_URL}images/mangas-estanteria.jpg`}
                             alt="Estanterías con una colección de mangas organizados por tomos"
-                            className="h-80 w-full object-cover object-center sm:h-96 lg:h-[460px]"
+                            className="h-80 w-full object-cover object-center sm:h-96 lg:h-115"
                             loading="eager"
                             decoding="async"
                         />
